@@ -4,7 +4,7 @@ Eat the 🍎, 🥕, or even 🐸 to grow your snake, but watch out — don’t b
 
 <img width="1020" height="596" alt="Screenshot 2025-08-09 134542" src="https://github.com/user-attachments/assets/882fe6b6-3d1d-4494-bfbd-b3da1219b0ec" />
 
-
+lets play : https://sudheerrrrit.github.io/simple-snake-game/
 ✨ Features
 🐍 Smooth Snake Movement – arrow keys control the snake.
 
